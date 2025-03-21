@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Eu sou o Gabriel, estudante de Sistemas de Informação e entusiasta do mundo da tecnologia.<br>
-  Atualmente estou focado nos meus estudos universitários e em projetos de desenvolvimento pessoal.
+  Olá! Eu sou o Gabriel, estudante de Sistemas de Informação com formação técnica em Eletrotécnica e grande interesse em tecnologia e inovação. <br>
+  Tenho experiência em projetos acadêmicos e pessoais, atuando no desenvolvimento de soluções digitais e automação de processos.
 </p>
 
 <p align="left">
