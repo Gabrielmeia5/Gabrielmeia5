@@ -46,8 +46,8 @@
 
 ### 📊 Estatísticas GitHub
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px" align="right">
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmeia5&show_icons=true&theme=gruvbox)
 
 ---
 
 💡 *"Sempre pronto para criar, aprender e compartilhar conhecimento!"*
+
