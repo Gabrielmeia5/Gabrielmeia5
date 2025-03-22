@@ -1,7 +1,5 @@
 
 # 👋 Olá, eu sou o Gabriel!
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px" align="right">
-<br/><br/><br/>
 🎓 Estudante de **Sistemas de Informação** e Técnico em **Eletrotécnica**<br/>
 💻 Entusiasta de tecnologia e apaixonado por **desenvolvimento de soluções digitais**<br/>
 🚀 Foco em **desenvolvimento web**, automação e sistemas eficientes<br/>
@@ -47,7 +45,7 @@
 ---
 
 ### 📊 Estatísticas GitHub
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px" align="right">
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmeia5&show_icons=true&theme=gruvbox)
 
 ---
