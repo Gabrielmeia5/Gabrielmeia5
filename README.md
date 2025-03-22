@@ -6,8 +6,6 @@
 🎯 Em busca de uma oportunidade de estágio para aplicar e expandir meus conhecimentos<br/>
 🌱 Sempre em busca de novos aprendizados, desafios e evolução constante<br/>
 
-<br>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriellima12/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
