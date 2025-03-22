@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px" align="right">
 
 # 👋 Olá, eu sou o Gabriel!
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px" align="right">
 
 🎓 Estudante de **Sistemas de Informação** e Técnico em **Eletrotécnica**<br/>
 💻 Entusiasta de tecnologia e apaixonado por **desenvolvimento de soluções digitais**<br/>
